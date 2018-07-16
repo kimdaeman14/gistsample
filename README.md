@@ -2,7 +2,7 @@
 
 
 
-`````
+```swift
 /*:
  # Basic
  **Metatype > Type > Instance**
@@ -70,5 +70,6 @@ print(stringMetatype)
 
 
 //: [Next](@next)
+
 
 
