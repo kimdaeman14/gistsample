@@ -1,4 +1,24 @@
 # gistsample
 
 
-syntax: [Title](https://gist.github.com/1691625e62b2d725bb065dd049f7d57b.git)
+<script src="https://gist.github.com/kimdaeman14/1691625e62b2d725bb065dd049f7d57b.js"></script>
+
+
+인라인 링크
+[Google](https://gist.github.com/kimdaeman14/1691625e62b2d725bb065dd049f7d57b.js “구글”)
+
+Google
+참조 링크 
+[Google][1]
+[Naver][2]
+[1]: https://gist.github.com/kimdaeman14/1691625e62b2d725bb065dd049f7d57b.js “구글”
+[2]: http://naver.com/ “네이버”	
+Google
+Naver
+URl 링크
+<https://gist.github.com/kimdaeman14/1691625e62b2d725bb065dd049f7d57b.js>
+<example@gmail.com/>	
+http://google.com
+example@gmail.com
+내부 링크 Internal (Anchored) Links
+[https://gist.github.com/kimdaeman14/1691625e62b2d725bb065dd049f7d57b.js](#id) 내부 링크
